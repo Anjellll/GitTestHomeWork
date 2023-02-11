@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94EEF146-B7E5-4F1E-B7FC-DB68A161FCF1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A811D409-F024-46F6-8C24-B5454BEA6DC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "4.7.HomeWork/View/CategoryCollectionView/CategoryCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "CategoryCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A811D409-F024-46F6-8C24-B5454BEA6DC6 - 28a8d055ea2c546c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__7_HomeWork.CategoryCollectionViewCell.dataHorizantallyLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "4.7.HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled%20folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/4.7.HomeWork/4.7.HomeWork/View/CategoryCollectionView/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A811D409-F024-46F6-8C24-B5454BEA6DC6 - c5dd6f6aedb05c28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__7_HomeWork.CategoryCollectionViewCell.dataHorizantallyLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "4.7.HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled%20folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/4.7.HomeWork/4.7.HomeWork/View/CategoryCollectionView/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "A811D409-F024-46F6-8C24-B5454BEA6DC6 - 15d8a96dfb9d3754"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__7_HomeWork.CategoryCollectionViewCell.dataHorizantallyLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "4.7.HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled%20folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/4.7.HomeWork/4.7.HomeWork/View/CategoryCollectionView/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A811D409-F024-46F6-8C24-B5454BEA6DC6 - 8e0831d7ff8ec4d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__7_HomeWork.CategoryCollectionViewCell.dataHorizantallyLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "4.7.HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled%20folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/4.7.HomeWork/4.7.HomeWork/View/CategoryCollectionView/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A811D409-F024-46F6-8C24-B5454BEA6DC6 - a779b1a52dbd9693"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__7_HomeWork.CategoryCollectionViewCell.init(frame: __C.CGRect) -&gt; __7_HomeWork.CategoryCollectionViewCell"
+                  moduleName = "4.7.HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled%20folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/4.7.HomeWork/4.7.HomeWork/View/CategoryCollectionView/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "A811D409-F024-46F6-8C24-B5454BEA6DC6 - ae48b3867e4d8743"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__7_HomeWork.CategoryCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;__7_HomeWork.CategoryCollectionViewCell&gt;"
+                  moduleName = "4.7.HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled%20folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/4.7.HomeWork/4.7.HomeWork/View/CategoryCollectionView/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA70DD62-EB1A-4304-8049-0A1DEF0BB2E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "4.7.HomeWork/Controller /CreateProductViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "createTapped(_sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
